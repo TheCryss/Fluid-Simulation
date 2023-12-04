@@ -1,3 +1,5 @@
 numpy==1.25.2
 prettytable
 sympy==1.12
+opencv-python==4.8.1.78
+matplotlib==3.8.2
